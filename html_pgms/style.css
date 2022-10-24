@@ -1,0 +1,22 @@
+h1{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-size:300%;
+    }
+body{
+    background-color: #cccccc;
+    }
+pre{
+    text-align:left;
+    font-family:monospace;
+    font-size:25;
+    background-color:#34A56F;
+    }
+table{
+    width:50%
+    }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
